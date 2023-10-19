@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class ab{
+public class 두수더하기{
 
     public static void main(String[] args) {
 
