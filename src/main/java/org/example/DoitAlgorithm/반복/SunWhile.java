@@ -1,4 +1,4 @@
-package org.example.DoitAlgorithm;
+package org.example.DoitAlgorithm.반복;
 
 import java.util.Scanner;
 
@@ -20,6 +20,6 @@ public class SunWhile {
             i++;
         }
         System.out.println("1부터 " +n +"까지의 합은 " +sum + "입니다.");
-        System.out.println(i);
+        System.out.println("i = " +i);
     }
 }
